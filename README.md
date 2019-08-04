@@ -27,3 +27,10 @@ Things you may want to cover:
 # hello_app
 first app
 >>>>>>> 5c5b6caf689abf3d4768af4968ec8b20c69e5bb7
+# Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
